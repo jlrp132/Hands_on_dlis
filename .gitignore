@@ -2,3 +2,4 @@
 *.DLIS
 
 sample_data/
+internal/
